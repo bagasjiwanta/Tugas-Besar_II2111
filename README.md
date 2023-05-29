@@ -5,4 +5,7 @@ Ecommerce data analysis based on a survey on **more than 2000** indonesian peopl
 Files : 
 1. Soal_Tugas_Besar.pdf                 : What I would like to know about the data
 2. Tugas_Besar_Probstat_18220053.pdf    : My analysis
-3. emoney.csv : the data
+3. emoney.csv                           : the data
+
+
+<b>Note: for some reason, github cannot display PDF. Please download them first and then open the PDF files. </b>
